@@ -93,7 +93,7 @@ h2{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 25px;
+    padding: 30px 15px 20px 0px;
     border-top: 3px solid hsl(0, 0%, 95%);
     font-size: 18px;
     /* background-color: purple; */
