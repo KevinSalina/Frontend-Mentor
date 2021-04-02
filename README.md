@@ -1,6 +1,6 @@
 # Frontend Mentor Profile Card
 
-Project to create **Profile Card** game using only vanilla HTML, CSS.
+Project to create a simple **Profile Card** game using only vanilla HTML, CSS.
 
 🔗 **Live preview:** [here](https://frontendmentor-profilecard-kappa.vercel.app/)
 
