@@ -23,6 +23,7 @@ From Frontend Mentor's [challenges](https://www.frontendmentor.io/challenges/pro
 ### What I learned
 
 * Better knowledge of **CSS** basics.
+* Better understanding of **position** to set background elements in place.
 * Improved HTML **code structure**.
 * Improved **clean code** writing.
 
