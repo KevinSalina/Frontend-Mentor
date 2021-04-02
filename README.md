@@ -18,11 +18,6 @@ From Frontend Mentor's [challenges](https://www.frontendmentor.io/challenges/pro
 * Visual Studio Code
 * Git and GitHub
 
-### Third party code
-
-* [Font Awesome](https://fontawesome.com/)
-* [Google Fonts](https://fonts.google.com/)
-
 ## Summary
 
 ### What I learned
